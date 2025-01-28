@@ -1,0 +1,24 @@
+{
+  "scenarios": [
+    {
+      "id": "FIN-001",
+      "title": "Lottery Scam Email",
+      "category": "Financial",
+      "scenario": "I received an email stating that I won a lottery. I am being asked to provide documents.",
+      "remediation": "Do not respond to the email or share any documents. This is a classic lottery scam attempting to steal your information.",
+      "points_of_contact": [
+        {
+          "name": "Cyber Crime Portal",
+          "contact": "cybercrime.gov.in"
+        },
+        {
+          "name": "National Cybercrime Helpline",
+          "contact": "1930"
+        }
+      ],
+      "tags": ["email", "lottery", "documents", "financial"],
+      "contributors": ["username"],
+      "last_updated": "2024-01-28"
+    }
+  ]
+}
